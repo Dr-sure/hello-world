@@ -1,2 +1,2 @@
 # hello-world
-No.1 SF player in Tanggu
+print ("I am the No.1 SF player in Tanggu.")
